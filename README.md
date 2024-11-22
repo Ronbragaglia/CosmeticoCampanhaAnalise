@@ -18,3 +18,6 @@ Simulação de Aumento de Vendas: Calcula o aumento nas vendas com base em um au
 Resultados Esperados:
 Um aumento de 30% nas vendas.
 Um ROI positivo, que pode ser visualizado no console do Google Colab.
+
+![image](https://github.com/user-attachments/assets/055bcd03-4f34-4b2d-9736-79eefdd1ac4b)
+
