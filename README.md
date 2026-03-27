@@ -1,23 +1,43 @@
- CosmeticoCampanhaAnalise
-O projeto envolve a análise de dados demográficos e interesses do público, assim como o acompanhamento do desempenho da campanha.
+# Análise de Campanha de Cosméticos
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Topic](https://img.shields.io/badge/Topic-data-analysis-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Tecnologias Usadas:
-Python: Linguagem de programação.
-Pandas: Para manipulação de dados.
-Matplotlib/Seaborn: Para visualizações de dados.
-Scikit-learn: Para segmentação de público e modelagem preditiva.
+## Descrição
 
-Descrição do Código:
-Importação de Bibliotecas: Inicia o projeto importando as bibliotecas necessárias.
-Simulação de Dados: Cria um conjunto de dados simulado que representa o público-alvo, seus interesses, idade, gênero e vendas.
-Visualização de Dados: Gera um gráfico de barras mostrando as vendas por faixa etária e interesse.
-Cálculo de ROI: Calcula o retorno sobre o investimento da campanha.
-Simulação de Aumento de Vendas: Calcula o aumento nas vendas com base em um aumento de 30%.
+Análise exploratória de dados de campanhas de cosméticos: dados demográficos, interesses do público-alvo e monitoramento de desempenho de campanhas.
 
-Resultados Esperados:
-Um aumento de 30% nas vendas.
-Um ROI positivo, que pode ser visualizado no console do Google Colab.
+## Funcionalidades
 
-![image](https://github.com/user-attachments/assets/055bcd03-4f34-4b2d-9736-79eefdd1ac4b)
+- Análise demográfica do público consumidor
+- Segmentação por interesses e comportamento
+- Rastreamento de desempenho de campanhas
+- Visualizações detalhadas com gráficos de barras e pizza
+- Insights para otimização de investimentos em marketing
 
+## Stack Tecnológico
+
+| Tecnologia | Descrição |
+|---|---|
+| Python | Linguagem principal |
+| Pandas | Análise e manipulação de dados |
+| Matplotlib | Visualização de dados |
+| Seaborn | Gráficos estatísticos |
+
+## Como Usar
+
+1. Clone o repositório
+2. Instale as dependências: `pip install -r requirements.txt`
+3. Execute: `python analise.py`
+
+## Estrutura de Pastas
+
+```
+├── analise.py
+├── data/
+├── outputs/
+└── requirements.txt
+```
+
+---
+
+> Feito com ❤️ por Rone Bragaglia · ML Engineer & Fundador CobrançaAuto
